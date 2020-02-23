@@ -30,7 +30,8 @@
 
     <!-- DerpFest maintainer -->
     <string name="maintainer">Maintainer</string>
-    <string name="maintainer_name">Alexander Brunswig</string>
+    <string name="maintainer_name" translatable="false">Alexander Brunswig</string>
+    <string name="maintainer_telegram" translatable="false">https://t.me/DerpFest5T</string>
 
     <!-- DerpFest Build types -->
     <string name="build_type">Build Type</string>
@@ -38,9 +39,6 @@
     <string name="derp_ci">CI</string>
     <string name="derp_private">Private</string>
     <string name="derp_community">Community</string>
-
-    <!-- Screenshot shutter -->
-    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
 
     <!-- Adb over Network -->
     <string name="adb_over_network">ADB over network</string>
@@ -197,5 +195,8 @@
 
     <!-- IME block back -->
     <string name="back_block_ime_title">Block height of virtual keyboard as touchable region for back gesture</string>
+
+    <!-- Enable/Disable Screenshot sound -->
+    <string name="screenshot_sound_title">Screenshot sounds</string>
 
 </resources>
