@@ -68,6 +68,16 @@
             android:data="@string/maintainer_telegram"/>
     </Preference>
 
+    <Preference
+        android:key="maintainer"
+        android:title="@string/public_group"
+        android:summary="@string/public_group_summary"
+        settings:enableCopying="true" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/DerpFest5T"/>
+    </Preference>
+
     <!-- DerpFest build type -->
     <Preference
         android:key="build_type"
