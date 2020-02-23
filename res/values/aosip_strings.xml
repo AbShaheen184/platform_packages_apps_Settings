@@ -35,8 +35,6 @@
     <string name="public_group">Public support group</string>
     <string name="public_group_summary">Derpfest telegram public support group.</string>
 
-
-
     <!-- DerpFest Build types -->
     <string name="build_type">Build Type</string>
     <string name="derp_official">Official</string>
